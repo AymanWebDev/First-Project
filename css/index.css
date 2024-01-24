@@ -22,7 +22,7 @@ div ul li a {
   color: black;
 }
 .banner {
-  background-image: url("./image/header.jpg");
+  background-image: url("/image/header.jpg");
   background-position: center center;
   background-size: cover;
   height: 100vh;
